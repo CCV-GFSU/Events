@@ -4,7 +4,7 @@ Events related content by Club for Cyber Vigilance. A central point to access al
 ## Index
 A comprehensive list of all the **Club for Cyber Vigilance** Meetups with Resources & Meetup Links.
 
-| Date | Event  | 
+| Date | Content  | 
 | :--: | ------ |
 | 04-Jan-2019 | [NTP Amplification Attack](./ntp-04-01-2019/ntp.pdf) |
 | 11-Jan-2019 | [Bitcoin & Crypto](./bitcoin-11-01-2019/bitcoin.pdf) |
