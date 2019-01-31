@@ -1,0 +1,23 @@
+#Title
+Try to come up with a catchy, yet relevant title for your session.
+
+##Abstract
+About 100-150 words covering what you will be covering. This will help audience decide whether they wish to </br>
+join it or not. Please prefer using bullet points.
+
+##Time
+
+##Special Requirements
+If you have any special requirements or environment setup that you want the audience to have then please </br>
+state that here in bullet points.
+
+* Laptop
+* Internet
+* Virtual Machine
+
+##Link to Slides/Content/References
+Any external links and resources that might be helpful for audience.
+This doesn't have to include your own PPT. We will be uploading them here.
+
+##About Yourself
+Please introduce yourself here so that everyone may connect with you.
