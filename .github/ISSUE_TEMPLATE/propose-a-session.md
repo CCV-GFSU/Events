@@ -1,7 +1,7 @@
 ---
 name: Propose a Session
 about: For official documentation, please share the info about the session/talk you'll
-  be delivering here.
+  be delivering here. Please make use of this template to properly format your proposal.
 title: ''
 labels: Tech Talk
 assignees: gaurav-gogia, Tanster221
