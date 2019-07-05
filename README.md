@@ -18,3 +18,4 @@ A comprehensive list of all the **Club for Cyber Vigilance** Meetups with Resour
 | 11-Jan-2019 | [Bitcoin & Crypto](./bitcoin-11-01-2019/bitcoin.pdf) |
 | 18-Jan-2019 | [Spectre & Metltdown](./sm-18-01-2019/sm.pdf) |
 | 15-Feb-2019 | [Serverless Architecture Security Challenges](./slas-15-02-2019/serverless.pdf) |
+| 02-July-2019 | [Threat Hunting with Splunk](./splunk-02-07-2019/splunk.pptx) |
