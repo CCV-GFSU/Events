@@ -5,6 +5,13 @@ Events related content by Club for Cyber Vigilance. A central point to access al
 We decided to make a small [template](template.md) that you could use to propose a session to be conducted via CCV.
 Please use the format provided and send an issue in this repository with all the details.
 
+### How to use Template
+#### Method 1
+Click [here](https://github.com/CCV-GFSU/Events/issues/new?assignees=gaurav-gogia%2C+Tanster221&labels=Tech+Talk&template=propose-a-session.md&title=), template will be activated and you can simply add content and follow rest of the steps.
+
+#### Method 2
+Simply visit [issues](https://github.com/CCV-GFSU/Events/issues) section. Click on **new issue**, a window will appear and then click on **get started**. Issue page with the template will be ready for you.
+
 ### Presentation Guidelines
 For future/aspiring speakers we have some [guidelines](guidelines.md) here. Please look into them. </br>
 They might help you in creating & delivering your session better.
