@@ -28,3 +28,5 @@ A comprehensive list of all the **Club for Cyber Vigilance** Meetups with Resour
 | 02-July-2019 | [Threat Hunting with Splunk](./splunk-02-07-2019/splunk.pdf) |
 | 16-July-2019 | [Bug Bounty - Life of a Pentester](./bugBounty-16-07-2019/bugb.pdf) |
 | 23-July-2019 | [The Chain of Trust](./chain-23-07-2019/trustchain.pdf) |
+| 19-Aug-2019 | Cyber Security by Design |
+| 16-Sep-2019 | CVE for DOS by Buffer Overflow |
