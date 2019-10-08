@@ -31,4 +31,4 @@ A comprehensive list of all the **Club for Cyber Vigilance** Meetups with Resour
 | 19-Aug-2019 | Cyber Security by Design |
 | 16-Sep-2019 | [CVE for DOS by Buffer Overflow](./dosCve-16-09-2019/doscve.pdf) |
 | 30-Sep-2019 | Intro to Reverse Engineering |
-| 07-Oct-2019 | Intro to Functional Programming | (./fp-07-10-19/fpoc.pdf) |
+| 07-Oct-2019 | [Intro to Functional Programming](./fp-07-10-19/fpoc.pdf) |
