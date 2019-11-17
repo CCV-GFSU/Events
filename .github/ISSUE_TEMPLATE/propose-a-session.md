@@ -4,7 +4,7 @@ about: For official documentation, please share the info about the session/talk 
   be delivering here. Please make use of this template to properly format your proposal.
 title: ''
 labels: Tech Talk
-assignees: gaurav-gogia, Tanster221
+assignees: Tanster221
 
 ---
 
